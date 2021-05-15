@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-15T09:41:40.636Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="9qZbpFWxcyxL0hD0p8FK" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-15T09:45:09.051Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="9CQbQq7wft2JhQarFFtQ" version="14.4.8" type="github">
   <diagram id="qwTMYI-pHskT1KhwKER0" name="Page-1">
-    <mxGraphModel dx="2000" dy="980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F5F5F5" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F5F5F5" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,19 +132,6 @@
         </mxCell>
         <mxCell id="Fj0EAY0XEnytQElQ4-_0-49" value="五矿日志&lt;br&gt;管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="161" y="1015" width="60" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Fj0EAY0XEnytQElQ4-_0-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fj0EAY0XEnytQElQ4-_0-50" target="Fj0EAY0XEnytQElQ4-_0-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="575.3529411764707" y="712" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Fj0EAY0XEnytQElQ4-_0-69" value="获取和调整各dubbo服务状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="Fj0EAY0XEnytQElQ4-_0-68">
-          <mxGeometry x="-0.4379" y="-3" relative="1" as="geometry">
-            <mxPoint x="-43.57" y="22" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Fj0EAY0XEnytQElQ4-_0-50" value="dubbo-admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="251" y="1015" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Fj0EAY0XEnytQElQ4-_0-52" value="存储" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="885" width="40" height="20" as="geometry" />
