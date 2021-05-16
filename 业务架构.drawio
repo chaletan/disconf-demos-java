@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T08:41:07.382Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="RXssdMTJBVPBozpA9TB9" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-16T08:42:23.435Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="kMx5qx-ihKAQ8aAxShDe" version="14.6.13" type="github">
   <diagram id="4iJ0f1cMk4c1h3tPNzgU" name="Page-1">
-    <mxGraphModel dx="1422" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#114B5F" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#114B5F" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,10 +74,13 @@
           <mxGeometry x="780" y="420" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-7" value="自动化对账" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="660" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-8" value="对账结果预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="660" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAPWTyVuzqUKzdaB-cMG-9" value="财务记账" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="210" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
