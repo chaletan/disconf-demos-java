@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T09:11:39.406Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="u1PD9GmFh1yAxGKavyQ0" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-16T09:12:03.898Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="myY1TxhY5Tp3r68gPG3a" version="14.6.13" type="github">
   <diagram id="4iJ0f1cMk4c1h3tPNzgU" name="Page-1">
     <mxGraphModel dx="1422" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#114B5F" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
           <mxGeometry x="465" y="430" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-18" value="&lt;font style=&quot;font-size: 30px&quot;&gt;钱包系统业务架构&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="50" width="260" height="30" as="geometry" />
+          <mxGeometry x="395" y="70" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
