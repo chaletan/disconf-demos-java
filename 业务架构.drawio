@@ -1,101 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T08:52:06.657Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="D8MZBlQ5MgggFJroD4IO" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-16T09:09:29.669Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="7VlVFhCKLmu-JUcb7yYN" version="14.6.13" type="github">
   <diagram id="4iJ0f1cMk4c1h3tPNzgU" name="Page-1">
     <mxGraphModel dx="1185" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#114B5F" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2wATa-GsxQFZJ28xfsbL-2" value="钱包开户" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="120" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2wATa-GsxQFZJ28xfsbL-8" value="&lt;span&gt;账户信息展示&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-1" value="钱包余额管理" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-2" value="目标信托相关" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="480" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-3" value="资金运用" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-6" value="账实核对" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-8" value="头寸管理" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="840" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-9" value="资金流水展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="240" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-10" value="账户余额，收益展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="240" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-11" value="身份证认证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="120" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-12" value="协议签署" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="350" width="100" height="60" as="geometry" />
+          <mxGeometry x="120" y="350" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-13" value="绑卡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="120" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-17" value="提现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="360" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-18" value="充值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="360" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-19" value="目标信托购买" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="480" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-20" value="目标信托成立缴款" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="480" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-21" value="资金运用申购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="600" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-22" value="资金运用赎回" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="600" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-1" value="自动化结息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="350" width="100" height="60" as="geometry" />
+          <mxGeometry x="600" y="350" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-3" value="资金变化展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="840" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-4" value="可变现资产展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="840" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-5" value="近期外付款计划展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="350" width="100" height="60" as="geometry" />
+          <mxGeometry x="840" y="350" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-6" value="头寸预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="420" width="100" height="60" as="geometry" />
+          <mxGeometry x="840" y="420" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-7" value="自动化对账" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="720" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-8" value="对账结果预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="350" width="100" height="60" as="geometry" />
+          <mxGeometry x="720" y="350" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-9" value="财务记账" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="720" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-10" value="调账" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="960" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-11" value="人工登记份额" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="960" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-12" value="人工退款" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="960" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-13" value="人工调账" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="350" width="100" height="60" as="geometry" />
+          <mxGeometry x="960" y="350" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-15" value="目标信托分配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="350" width="100" height="60" as="geometry" />
+          <mxGeometry x="480" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAPWTyVuzqUKzdaB-cMG-16" value="钱&lt;br&gt;&lt;br&gt;包&lt;br&gt;&lt;br&gt;系&lt;br&gt;&lt;br&gt;统" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#E4FDE1;strokeColor=#028090;fillColor=#F45B69;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="50" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
