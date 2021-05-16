@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T08:42:23.435Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="kMx5qx-ihKAQ8aAxShDe" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-16T08:51:40.575Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="sj4gGHqdEq5RhaqbAZQO" version="14.6.13" type="github">
   <diagram id="4iJ0f1cMk4c1h3tPNzgU" name="Page-1">
     <mxGraphModel dx="1185" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#114B5F" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="lOPFTTWSg11TCO03ej4G-19" value="目标信托购买" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
           <mxGeometry x="420" y="210" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lOPFTTWSg11TCO03ej4G-20" value="目标信托分配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
+        <mxCell id="lOPFTTWSg11TCO03ej4G-20" value="目标信托成立缴款" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
           <mxGeometry x="420" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lOPFTTWSg11TCO03ej4G-21" value="资金运用申购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
@@ -81,6 +81,21 @@
         </mxCell>
         <mxCell id="UAPWTyVuzqUKzdaB-cMG-9" value="财务记账" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
           <mxGeometry x="660" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAPWTyVuzqUKzdaB-cMG-10" value="调账" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UAPWTyVuzqUKzdaB-cMG-11" value="人工登记份额" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAPWTyVuzqUKzdaB-cMG-12" value="人工退款" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAPWTyVuzqUKzdaB-cMG-13" value="人工调账" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAPWTyVuzqUKzdaB-cMG-15" value="目标信托分配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
